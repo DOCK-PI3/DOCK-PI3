@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/Fwa_EQlMlhQ">
-<img src="http://i3.ytimg.com/vi/Fwa_EQlMlhQ/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=Fwa_EQlMlhQ">
+<img src="https://i.ytimg.com/vi/Fwa_EQlMlhQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhFIEUoZTAP&rs=AOn4CLDNm_i5RdAu_ukz_hp1QvwOwFLuDA">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/1Yz8nJ-kITQ">
-<img src="http://i3.ytimg.com/vi/1Yz8nJ-kITQ/maxresdefault.jpg">
+<img src="https://i.ytimg.com/an_webp/1Yz8nJ-kITQ/mqdefault_6s.webp?du=3000&sqp=CPTwyp8G&rs=AOn4CLBG8ORkkh9-3GEn7NyZ2g5jIgJUWA">
 </a>
 </td>
 <td>
