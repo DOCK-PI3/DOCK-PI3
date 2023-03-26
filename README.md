@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=kny1v10gtis">
-<img src="[https://i.ytimg.com/an_webp/kny1v10gtis/mqdefault_6s.webp?du=3000&sqp=CNvayp8G&rs=AOn4CLCJGRpkgUYbXHi0KBmn5SjbFg2cnA](https://i.ytimg.com/an_webp/kny1v10gtis/mqdefault_6s.webp?du=3000&sqp=CPr1gKEG&rs=AOn4CLBq61LMzEFV6i2FgIcH6KJk4FMC_A)">
+<img src="https://i.ytimg.com/an_webp/kny1v10gtis/mqdefault_6s.webp?du=3000&sqp=CNvayp8G&rs=AOn4CLCJGRpkgUYbXHi0KBmn5SjbFg2cnA">
 </a>
 </td>
 <td>
